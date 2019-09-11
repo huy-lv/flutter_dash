@@ -1,6 +1,7 @@
 name: flutter_dash_example
-description: A new Flutter project.
-
+description: A  Flutter project for draw dashes
+author: huy-lv <huylv177@gmail.com>
+homepage: https://huy-lv.github.io
 version: 1.0.0+1
 
 environment:
@@ -9,12 +10,12 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_dash:
+    path: ../
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_dash:
-    path: ../
 
 flutter:
   uses-material-design: true

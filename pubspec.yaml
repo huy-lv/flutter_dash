@@ -1,8 +1,8 @@
 name: flutter_dash
-description: A Flutter package for drawing dashes.
+description: A  Flutter project for draw dashes
 version: 0.0.1
-author: huy-lv
-homepage:
+author: huy-lv <huylv177@gmail.com>
+homepage: https://huy-lv.github.io
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
