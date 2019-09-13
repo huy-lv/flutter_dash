@@ -20,4 +20,4 @@ Dash(
   dashColor: Colors.red)
   ```
 
-![alt](https://i.ibb.co/GtqFQV3/exampleimage.png)
+![alt](https://raw.githubusercontent.com/huy-lv/flutter_dash/master/exampleimage.png)
