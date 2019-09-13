@@ -21,3 +21,5 @@ Dash(
   ```
 
 ![alt](https://raw.githubusercontent.com/huy-lv/flutter_dash/master/exampleimage.png)
+
+### Don't forget to give a star if it help you 
