@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 
 class Dash extends StatelessWidget {
   const Dash(
-      {Key key,
+      {Key? key,
       this.direction = Axis.horizontal,
       this.dashColor = Colors.black,
       this.length = 200,
